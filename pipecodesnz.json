@@ -1,254 +1,3405 @@
+
 [
-{
+  {
     "K-Line Irrigation pipe code": "OA300.32PN6.3(80)",
     "Average diameter (mm)": 28.65,
     "Pressure rating (bar)": 6.3,
     "Feed": false,
     "Main": false
-},
-{
+  },
+  {
     "K-Line Irrigation pipe code": "OA300.40PN6.3(80)",
     "Average diameter (mm)": 36.1,
     "Pressure rating (bar)": 6.3,
     "Feed": false,
     "Main": false
-},
-{
+  },
+  {
     "K-Line Irrigation pipe code": "OA300.50PN6.3(80)",
     "Average diameter (mm)": 45.05,
     "Pressure rating (bar)": 6.3,
     "Feed": false,
     "Main": true
-},
-{
+  },
+  {
     "K-Line Irrigation pipe code": "OA300.63PN6.3(80)",
     "Average diameter (mm)": 56.9,
     "Pressure rating (bar)": 6.3,
     "Feed": false,
     "Main": true
-},
-{
+  },
+  {
     "K-Line Irrigation pipe code": "OA300.75PN6.3(80)",
     "Average diameter (mm)": 67.65,
     "Pressure rating (bar)": 6.3,
     "Feed": false,
     "Main": true
-},
-{
+  },
+  {
     "K-Line Irrigation pipe code": "OA300.25PN9(100)",
     "Average diameter (mm)": 21.65,
     "Pressure rating (bar)": 9,
     "Feed": false,
     "Main": false
-},
-{
+  },
+  {
     "K-Line Irrigation pipe code": "OA300.32PN9(100)",
     "Average diameter (mm)": 28.35,
     "Pressure rating (bar)": 9,
     "Feed": false,
     "Main": false
-},
-{
+  },
+  {
     "K-Line Irrigation pipe code": "OA300.40PN9(100)",
     "Average diameter (mm)": 35.5,
     "Pressure rating (bar)": 9,
     "Feed": false,
     "Main": false
-},
-{
+  },
+  {
     "K-Line Irrigation pipe code": "OA300.50PN9(100)",
     "Average diameter (mm)": 44.45,
     "Pressure rating (bar)": 9,
     "Feed": false,
     "Main": true
-},
-{
+  },
+  {
     "K-Line Irrigation pipe code": "OA300.63PN9(100)",
     "Average diameter (mm)": 56.05,
     "Pressure rating (bar)": 9,
     "Feed": false,
     "Main": true
-},
-{
+  },
+  {
     "K-Line Irrigation pipe code": "OA300.75PN9(100)",
     "Average diameter (mm)": 66.7,
     "Pressure rating (bar)": 9,
     "Feed": false,
     "Main": true
-},
-{
+  },
+  {
     "K-Line Irrigation pipe code": "OA300.90PN9(100)",
     "Average diameter (mm)": 80.1,
     "Pressure rating (bar)": 9,
     "Feed": false,
     "Main": true
-},
-{
+  },
+  {
     "K-Line Irrigation pipe code": "OA300.110PN9(100)",
     "Average diameter (mm)": 97.85,
     "Pressure rating (bar)": 9,
     "Feed": false,
     "Main": true
-},
-{
+  },
+  {
     "K-Line Irrigation pipe code": "OA300.25PN12.5(100)",
     "Average diameter (mm)": 21.05,
     "Pressure rating (bar)": 12.5,
     "Feed": false,
     "Main": false
-},
-{
+  },
+  {
     "K-Line Irrigation pipe code": "OA300.32PN12.5(100)",
     "Average diameter (mm)": 26.95,
     "Pressure rating (bar)": 12.5,
     "Feed": false,
     "Main": false
-},
-{
+  },
+  {
     "K-Line Irrigation pipe code": "OA300.40PN12.5(100)",
     "Average diameter (mm)": 33.8,
     "Pressure rating (bar)": 12.5,
     "Feed": false,
     "Main": false
-},
-{
+  },
+  {
     "K-Line Irrigation pipe code": "OA300.50PN12.5(100)",
     "Average diameter (mm)": 42.35,
     "Pressure rating (bar)": 12.5,
     "Feed": false,
     "Main": false
-},
-{
+  },
+  {
     "K-Line Irrigation pipe code": "OA300.63PN12.5(100)",
     "Average diameter (mm)": 53.3,
     "Pressure rating (bar)": 12.5,
     "Feed": false,
     "Main": false
-},
-{
+  },
+  {
     "K-Line Irrigation pipe code": "OA300.75PN12.5(100)",
     "Average diameter (mm)": 63.65,
     "Pressure rating (bar)": 12.5,
     "Feed": false,
     "Main": false
-},
-{
+  },
+  {
     "K-Line Irrigation pipe code": "OA300.90PN12.5(100)",
     "Average diameter (mm)": 76.45,
     "Pressure rating (bar)": 12.5,
     "Feed": false,
     "Main": false
-},
-{
+  },
+  {
     "K-Line Irrigation pipe code": "OA300.110PN12.5(100)",
     "Average diameter (mm)": 93.3,
     "Pressure rating (bar)": 12.5,
     "Feed": false,
     "Main": false
-},
-{
+  },
+  {
     "K-Line Irrigation pipe code": "OA300.25PN16(100)",
     "Average diameter (mm)": 20.15,
     "Pressure rating (bar)": 16,
     "Feed": false,
     "Main": false
-},
-{
+  },
+  {
     "K-Line Irrigation pipe code": "OA300.32PN16(100)",
     "Average diameter (mm)": 25.95,
     "Pressure rating (bar)": 16,
     "Feed": false,
     "Main": false
-},
-{
+  },
+  {
     "K-Line Irrigation pipe code": "OA300.40PN16(100)",
     "Average diameter (mm)": 32.3,
     "Pressure rating (bar)": 16,
     "Feed": false,
     "Main": false
-},
-{
+  },
+  {
     "K-Line Irrigation pipe code": "OA300.50PN16(100)",
     "Average diameter (mm)": 40.45,
     "Pressure rating (bar)": 16,
     "Feed": false,
     "Main": false
-},
-{
+  },
+  {
     "K-Line Irrigation pipe code": "OA300.63PN16(100)",
     "Average diameter (mm)": 51,
     "Pressure rating (bar)": 16,
     "Feed": false,
     "Main": false
-},
-{
+  },
+  {
     "K-Line Irrigation pipe code": "OA300.75PN16(100)",
     "Average diameter (mm)": 60.95,
     "Pressure rating (bar)": 16,
     "Feed": false,
     "Main": false
-},
-{
+  },
+  {
     "K-Line Irrigation pipe code": "OA300.90PN16(100)",
     "Average diameter (mm)": 73.05,
     "Pressure rating (bar)": 16,
     "Feed": false,
     "Main": false
-},
-{
+  },
+  {
     "K-Line Irrigation pipe code": "OA300.110PN16(100)",
     "Average diameter (mm)": 89.4,
     "Pressure rating (bar)": 16,
     "Feed": false,
     "Main": false
-},
-{
+  },
+  {
     "K-Line Irrigation pipe code": "MDEF57PN6",
     "Average diameter (mm)": 50.3,
     "Pressure rating (bar)": 6,
     "Feed": false,
     "Main": false
-},
-{
+  },
+  {
     "K-Line Irrigation pipe code": "MDEF63PN8(80)",
     "Average diameter (mm)": 55.2,
     "Pressure rating (bar)": 8,
     "Feed": false,
     "Main": false
-},
-{
+  },
+  {
     "K-Line Irrigation pipe code": "MDEF75PN8(80)",
     "Average diameter (mm)": 65.75,
     "Pressure rating (bar)": 8,
     "Feed": false,
     "Main": false
-},
-{
+  },
+  {
     "K-Line Irrigation pipe code": "MDEF90PN8(80)",
     "Average diameter (mm)": 78.95,
     "Pressure rating (bar)": 8,
     "Feed": false,
     "Main": false
-},
-{
+  },
+  {
     "K-Line Irrigation pipe code": "MD75PN10(100)",
     "Average diameter (mm)": 65.75,
     "Pressure rating (bar)": 10,
     "Feed": false,
     "Main": false
-},
-{
+  },
+  {
     "K-Line Irrigation pipe code": "MD90PN10(100)",
     "Average diameter (mm)": 78.95,
     "Pressure rating (bar)": 10,
     "Feed": false,
     "Main": false
-},
-{
+  },
+  {
     "K-Line Irrigation pipe code": "MD110PN10(100)",
     "Average diameter (mm)": 96.5,
     "Pressure rating (bar)": 10,
     "Feed": false,
     "Main": false
-} 
+  },
+  {
+    "K-Line Irrigation pipe code": "LD15",
+    "Average diameter (mm)": 12.2,
+    "Pressure rating (bar)": 9.7,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "LD20",
+    "Average diameter (mm)": 18.55,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "LD25",
+    "Average diameter (mm)": 24.9,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "LD32",
+    "Average diameter (mm)": 31.2,
+    "Pressure rating (bar)": 6.5,
+    "Feed": true,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "LD40",
+    "Average diameter (mm)": 37.55,
+    "Pressure rating (bar)": 6,
+    "Feed": true,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "LD45",
+    "Average diameter (mm)": 43.65,
+    "Pressure rating (bar)": 5.5,
+    "Feed": true,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "LD50",
+    "Average diameter (mm)": 50.25,
+    "Pressure rating (bar)": 5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "KPIPE32",
+    "Average diameter (mm)": 31.2,
+    "Pressure rating (bar)": 6.5,
+    "Feed": true,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "KPIPE40",
+    "Average diameter (mm)": 37.55,
+    "Pressure rating (bar)": 6,
+    "Feed": true,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "KPIPE45",
+    "Average diameter (mm)": 43.65,
+    "Pressure rating (bar)": 5.5,
+    "Feed": true,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "KPIPE50",
+    "Average diameter (mm)": 50.25,
+    "Pressure rating (bar)": 5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "KPIPE63",
+    "Average diameter (mm)": 55.2,
+    "Pressure rating (bar)": 6.3,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "LAT13",
+    "Average diameter (mm)": 13,
+    "Pressure rating (bar)": 5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "LAT16",
+    "Average diameter (mm)": 16,
+    "Pressure rating (bar)": 5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "LAT19",
+    "Average diameter (mm)": 19,
+    "Pressure rating (bar)": 5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "LAT25",
+    "Average diameter (mm)": 24.9,
+    "Pressure rating (bar)": 5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "HDB15",
+    "Average diameter (mm)": 13.3,
+    "Pressure rating (bar)": 6,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "HDB20",
+    "Average diameter (mm)": 21.35,
+    "Pressure rating (bar)": 6,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "HDB25",
+    "Average diameter (mm)": 26.9,
+    "Pressure rating (bar)": 6,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "HDB32",
+    "Average diameter (mm)": 32.65,
+    "Pressure rating (bar)": 6,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "HDB40",
+    "Average diameter (mm)": 38.25,
+    "Pressure rating (bar)": 6,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "HDB50",
+    "Average diameter (mm)": 53.1,
+    "Pressure rating (bar)": 6,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "HDC15",
+    "Average diameter (mm)": 14.1,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "HDC20",
+    "Average diameter (mm)": 20.75,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "HDC25",
+    "Average diameter (mm)": 25.8,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "HDC32",
+    "Average diameter (mm)": 31.05,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "HDC40",
+    "Average diameter (mm)": 36.35,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "HDC50",
+    "Average diameter (mm)": 49.7,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "HDD15",
+    "Average diameter (mm)": 13.3,
+    "Pressure rating (bar)": 12,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "HDD20",
+    "Average diameter (mm)": 19.25,
+    "Pressure rating (bar)": 12,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "HDD25",
+    "Average diameter (mm)": 24.2,
+    "Pressure rating (bar)": 12,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "HDD32",
+    "Average diameter (mm)": 29.15,
+    "Pressure rating (bar)": 12,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "HDD40",
+    "Average diameter (mm)": 34.05,
+    "Pressure rating (bar)": 12,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "HDD50",
+    "Average diameter (mm)": 46.6,
+    "Pressure rating (bar)": 12,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MDID32PN6.3",
+    "Average diameter (mm)": 33.85,
+    "Pressure rating (bar)": 6.3,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MDID40PN6.3",
+    "Average diameter (mm)": 39.65,
+    "Pressure rating (bar)": 6.3,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MDID50PN6.3",
+    "Average diameter (mm)": 54.3,
+    "Pressure rating (bar)": 6.3,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MDID20PN8",
+    "Average diameter (mm)": 21.65,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MDID25PN8",
+    "Average diameter (mm)": 27.4,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MDID20PN9",
+    "Average diameter (mm)": 21.45,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MDID25PN9",
+    "Average diameter (mm)": 27,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MDID32PN9",
+    "Average diameter (mm)": 32.35,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MDID40PN9",
+    "Average diameter (mm)": 37.85,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MDID50PN9",
+    "Average diameter (mm)": 51.9,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD20PN6.3",
+    "Average diameter (mm)": 16.65,
+    "Pressure rating (bar)": 6.3,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD25PN6.3",
+    "Average diameter (mm)": 21.65,
+    "Pressure rating (bar)": 6.3,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD32PN6.3",
+    "Average diameter (mm)": 28.65,
+    "Pressure rating (bar)": 6.3,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD40PN6.3",
+    "Average diameter (mm)": 36.1,
+    "Pressure rating (bar)": 6.3,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD50PN6.3",
+    "Average diameter (mm)": 45.05,
+    "Pressure rating (bar)": 6.3,
+    "Feed": false,
+    "Main": true
+  },
+  {
+    "K-Line Irrigation pipe code": "MD63PN6.3",
+    "Average diameter (mm)": 56.9,
+    "Pressure rating (bar)": 6.3,
+    "Feed": false,
+    "Main": true
+  },
+  {
+    "K-Line Irrigation pipe code": "MD75PN6.3",
+    "Average diameter (mm)": 67.65,
+    "Pressure rating (bar)": 6.3,
+    "Feed": false,
+    "Main": true
+  },
+  {
+    "K-Line Irrigation pipe code": "MD90PN6.3",
+    "Average diameter (mm)": 81.25,
+    "Pressure rating (bar)": 6.3,
+    "Feed": false,
+    "Main": true
+  },
+  {
+    "K-Line Irrigation pipe code": "MD110PN6.3",
+    "Average diameter (mm)": 99.2,
+    "Pressure rating (bar)": 6.3,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD125PN6.3",
+    "Average diameter (mm)": 112.9,
+    "Pressure rating (bar)": 6.3,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD140PN6.3",
+    "Average diameter (mm)": 126.45,
+    "Pressure rating (bar)": 6.3,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD160PN6.3",
+    "Average diameter (mm)": 144.45,
+    "Pressure rating (bar)": 6.3,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD180PN6.3",
+    "Average diameter (mm)": 162.65,
+    "Pressure rating (bar)": 6.3,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD200PN6.3",
+    "Average diameter (mm)": 180.6,
+    "Pressure rating (bar)": 6.3,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD225PN6.3",
+    "Average diameter (mm)": 203.25,
+    "Pressure rating (bar)": 6.3,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD250PN6.3",
+    "Average diameter (mm)": 226.05,
+    "Pressure rating (bar)": 6.3,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD280PN6.3",
+    "Average diameter (mm)": 253,
+    "Pressure rating (bar)": 6.3,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD315PN6.3",
+    "Average diameter (mm)": 284.85,
+    "Pressure rating (bar)": 6.3,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD355PN6.3",
+    "Average diameter (mm)": 321,
+    "Pressure rating (bar)": 6.3,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD400PN6.3",
+    "Average diameter (mm)": 361.5,
+    "Pressure rating (bar)": 6.3,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD450PN6.3",
+    "Average diameter (mm)": 406.75,
+    "Pressure rating (bar)": 6.3,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD500PN6.3(PE100)",
+    "Average diameter (mm)": 461.95,
+    "Pressure rating (bar)": 6.3,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD560PN6.3(PE100)",
+    "Average diameter (mm)": 517.45,
+    "Pressure rating (bar)": 6.3,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD630PN6.3(PE100)",
+    "Average diameter (mm)": 582.05,
+    "Pressure rating (bar)": 6.3,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD25PN8",
+    "Average diameter (mm)": 21.65,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD32PN8",
+    "Average diameter (mm)": 28.05,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD40PN8",
+    "Average diameter (mm)": 35,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD50PN8",
+    "Average diameter (mm)": 43.85,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD63PN8",
+    "Average diameter (mm)": 55.2,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD75PN8",
+    "Average diameter (mm)": 65.75,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD90PN8",
+    "Average diameter (mm)": 78.95,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD110PN8",
+    "Average diameter (mm)": 96.5,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD125PN8",
+    "Average diameter (mm)": 109.9,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD140PN8",
+    "Average diameter (mm)": 123.05,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD160PN8",
+    "Average diameter (mm)": 140.65,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD180PN8",
+    "Average diameter (mm)": 158.25,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD200PN8",
+    "Average diameter (mm)": 175.8,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD225PN8",
+    "Average diameter (mm)": 197.75,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD250PN8",
+    "Average diameter (mm)": 219.95,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD280PN8",
+    "Average diameter (mm)": 246.3,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD315PN8",
+    "Average diameter (mm)": 277.05,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD355PN8",
+    "Average diameter (mm)": 311.1,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD400PN8",
+    "Average diameter (mm)": 351.9,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD450PN8",
+    "Average diameter (mm)": 395.85,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD75PN8(PE100)",
+    "Average diameter (mm)": 67.65,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": true
+  },
+  {
+    "K-Line Irrigation pipe code": "MD90PN8(PE100)",
+    "Average diameter (mm)": 81.25,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": true
+  },
+  {
+    "K-Line Irrigation pipe code": "MD110PN8(PE100)",
+    "Average diameter (mm)": 99.2,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD125PN8(PE100)",
+    "Average diameter (mm)": 112.9,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD140PN8(PE100)",
+    "Average diameter (mm)": 126.45,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD160PN8(PE100)",
+    "Average diameter (mm)": 144.45,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD180PN8(PE100)",
+    "Average diameter (mm)": 162.65,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD200PN8(PE100)",
+    "Average diameter (mm)": 180.6,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD225PN8(PE100)",
+    "Average diameter (mm)": 203.25,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD250PN8(PE100)",
+    "Average diameter (mm)": 226.05,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD280PN8(PE100)",
+    "Average diameter (mm)": 253,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD315PN8(PE100)",
+    "Average diameter (mm)": 284.85,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD355PN8(PE100)",
+    "Average diameter (mm)": 321,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD400PN8(PE100)",
+    "Average diameter (mm)": 361.5,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD450PN8(PE100)",
+    "Average diameter (mm)": 451.95,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD500PN8(PE100)",
+    "Average diameter (mm)": 451.95,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD560PN8(PE100)",
+    "Average diameter (mm)": 506.35,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD630PN8(PE100)",
+    "Average diameter (mm)": 569.75,
+    "Pressure rating (bar)": 8,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD20PN9",
+    "Average diameter (mm)": 16.65,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD25PN9",
+    "Average diameter (mm)": 21.45,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD32PN9",
+    "Average diameter (mm)": 27.45,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD40PN9",
+    "Average diameter (mm)": 34.5,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD50PN9",
+    "Average diameter (mm)": 43.05,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": true
+  },
+  {
+    "K-Line Irrigation pipe code": "MD63PN9",
+    "Average diameter (mm)": 54.4,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": true
+  },
+  {
+    "K-Line Irrigation pipe code": "MD75PN9",
+    "Average diameter (mm)": 64.75,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": true
+  },
+  {
+    "K-Line Irrigation pipe code": "MD90PN9",
+    "Average diameter (mm)": 77.75,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD110PN9",
+    "Average diameter (mm)": 95,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD20PN10",
+    "Average diameter (mm)": 16.65,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD25PN10",
+    "Average diameter (mm)": 21.05,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD32PN10",
+    "Average diameter (mm)": 26.95,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD40PN10",
+    "Average diameter (mm)": 33.8,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD50PN10",
+    "Average diameter (mm)": 42.35,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD63PN10",
+    "Average diameter (mm)": 53.3,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD75PN10",
+    "Average diameter (mm)": 63.65,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD90PN10",
+    "Average diameter (mm)": 76.45,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD110PN10",
+    "Average diameter (mm)": 93.3,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD125PN10",
+    "Average diameter (mm)": 106.1,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD140PN10",
+    "Average diameter (mm)": 118.85,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD160PN10",
+    "Average diameter (mm)": 135.85,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD180PN10",
+    "Average diameter (mm)": 152.75,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD200PN10",
+    "Average diameter (mm)": 169.9,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD225PN10",
+    "Average diameter (mm)": 191.05,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD250PN10",
+    "Average diameter (mm)": 212.35,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD280PN10",
+    "Average diameter (mm)": 237.9,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD315PN10",
+    "Average diameter (mm)": 267.55,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD355PN10",
+    "Average diameter (mm)": 301.6,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD400PN10",
+    "Average diameter (mm)": 339.9,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD450PN10",
+    "Average diameter (mm)": 382.35,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD25PN10(PE100)",
+    "Average diameter (mm)": 21.65,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD32PN10(PE100)",
+    "Average diameter (mm)": 28.05,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD40PN10(PE100)",
+    "Average diameter (mm)": 35,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD50PN10(PE100)",
+    "Average diameter (mm)": 43.85,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD63PN10(PE100)",
+    "Average diameter (mm)": 55.2,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD75PN10(PE100)",
+    "Average diameter (mm)": 65.75,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD90PN10(PE100)",
+    "Average diameter (mm)": 78.95,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD110PN10(PE100)",
+    "Average diameter (mm)": 96.5,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD125PN10(PE100)",
+    "Average diameter (mm)": 109.9,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD140PN10(PE100)",
+    "Average diameter (mm)": 123.05,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD160PN10(PE100)",
+    "Average diameter (mm)": 140.65,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD180PN10(PE100)",
+    "Average diameter (mm)": 158.25,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD200PN10(PE100)",
+    "Average diameter (mm)": 175.8,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD225PN10(PE100)",
+    "Average diameter (mm)": 197.75,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD250PN10(PE100)",
+    "Average diameter (mm)": 219.95,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD280PN10(PE100)",
+    "Average diameter (mm)": 246.3,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD315PN10(PE100)",
+    "Average diameter (mm)": 277.05,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD355PN10(PE100)",
+    "Average diameter (mm)": 311.1,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD400PN10(PE100)",
+    "Average diameter (mm)": 351.9,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD450PN10(PE100)",
+    "Average diameter (mm)": 395.85,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD500PN10(PE100)",
+    "Average diameter (mm)": 439.95,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD560PN10(PE100)",
+    "Average diameter (mm)": 492.65,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD630PN10(PE100)",
+    "Average diameter (mm)": 554.35,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD20PN12.5",
+    "Average diameter (mm)": 16.05,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD25PN12.5",
+    "Average diameter (mm)": 20.15,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD32PN12.5",
+    "Average diameter (mm)": 25.95,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD40PN12.5",
+    "Average diameter (mm)": 32.3,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD50PN12.5",
+    "Average diameter (mm)": 40.45,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD63PN12.5",
+    "Average diameter (mm)": 51,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD75PN12.5",
+    "Average diameter (mm)": 60.95,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD90PN12.5",
+    "Average diameter (mm)": 73.05,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD110PN12.5",
+    "Average diameter (mm)": 89.4,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD125PN12.5",
+    "Average diameter (mm)": 101.5,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD140PN12.5",
+    "Average diameter (mm)": 113.85,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD160PN12.5",
+    "Average diameter (mm)": 129.95,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD180PN12.5",
+    "Average diameter (mm)": 146.25,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD200PN12.5",
+    "Average diameter (mm)": 162.5,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD225PN12.5",
+    "Average diameter (mm)": 182.85,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD250PN12.5",
+    "Average diameter (mm)": 203.35,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD280PN12.5",
+    "Average diameter (mm)": 227.8,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD315PN12.5",
+    "Average diameter (mm)": 256.25,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD355PN12.5",
+    "Average diameter (mm)": 288.8,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD400PN12.5",
+    "Average diameter (mm)": 325.4,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD450PN12.5",
+    "Average diameter (mm)": 366.05,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD20PN12.5(PE100)",
+    "Average diameter (mm)": 16.65,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD25PN12.5(PE100)",
+    "Average diameter (mm)": 21.05,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD32PN12.5(PE100)",
+    "Average diameter (mm)": 26.95,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD40PN12.5(PE100)",
+    "Average diameter (mm)": 33.8,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD50PN12.5(PE100)",
+    "Average diameter (mm)": 42.35,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD63PN12.5(PE100)",
+    "Average diameter (mm)": 53.3,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD75PN12.5(PE100)",
+    "Average diameter (mm)": 63.65,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD90PN12.5(PE100)",
+    "Average diameter (mm)": 76.45,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD110PN12.5(PE100)",
+    "Average diameter (mm)": 93.3,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD125PN12.5(PE100)",
+    "Average diameter (mm)": 106.1,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD140PN12.5(PE100)",
+    "Average diameter (mm)": 118.85,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD160PN12.5(PE100)",
+    "Average diameter (mm)": 135.85,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD180PN12.5(PE100)",
+    "Average diameter (mm)": 152.75,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD200PN12.5(PE100)",
+    "Average diameter (mm)": 169.9,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD225PN12.5(PE100)",
+    "Average diameter (mm)": 191.05,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD250PN12.5(PE100)",
+    "Average diameter (mm)": 212.35,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD280PN12.5(PE100)",
+    "Average diameter (mm)": 237.9,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD315PN12.5(PE100)",
+    "Average diameter (mm)": 267.55,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD355PN12.5(PE100)",
+    "Average diameter (mm)": 301.6,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD400PN12.5(PE100)",
+    "Average diameter (mm)": 339.9,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD450PN12.5(PE100)",
+    "Average diameter (mm)": 382.35,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD500PN12.5(PE100)",
+    "Average diameter (mm)": 424.85,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD560PN12.5(PE100)",
+    "Average diameter (mm)": 475.85,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD630PN12.5(PE100)",
+    "Average diameter (mm)": 535.45,
+    "Pressure rating (bar)": 12.5,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD20PN16",
+    "Average diameter (mm)": 15.15,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD25PN16",
+    "Average diameter (mm)": 19.15,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD32PN16",
+    "Average diameter (mm)": 24.45,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD40PN16",
+    "Average diameter (mm)": 30.6,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD50PN16",
+    "Average diameter (mm)": 38.35,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD63PN16",
+    "Average diameter (mm)": 48.2,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD75PN16",
+    "Average diameter (mm)": 57.55,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD90PN16",
+    "Average diameter (mm)": 69.05,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD110PN16",
+    "Average diameter (mm)": 84.5,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD125PN16",
+    "Average diameter (mm)": 96.1,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD140PN16",
+    "Average diameter (mm)": 107.55,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD160PN16",
+    "Average diameter (mm)": 123.05,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD180PN16",
+    "Average diameter (mm)": 138.45,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD200PN16",
+    "Average diameter (mm)": 153.7,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD225PN16",
+    "Average diameter (mm)": 173.15,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD250PN16",
+    "Average diameter (mm)": 192.45,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD280PN16",
+    "Average diameter (mm)": 215.4,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD315PN16",
+    "Average diameter (mm)": 242.35,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD355PN16",
+    "Average diameter (mm)": 273.3,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD400PN16",
+    "Average diameter (mm)": 307.8,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD450PN16",
+    "Average diameter (mm)": 346.45,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD20PN16(PE100)",
+    "Average diameter (mm)": 16.05,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD25PN16(PE100)",
+    "Average diameter (mm)": 20.15,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD32PN16(PE100)",
+    "Average diameter (mm)": 25.95,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD40PN16(PE100)",
+    "Average diameter (mm)": 32.3,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD50PN16(PE100)",
+    "Average diameter (mm)": 40.45,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD63PN16(PE100)",
+    "Average diameter (mm)": 51,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD75PN16(PE100)",
+    "Average diameter (mm)": 60.95,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD90PN16(PE100)",
+    "Average diameter (mm)": 73.05,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD110PN16(PE100)",
+    "Average diameter (mm)": 89.4,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD125PN16(PE100)",
+    "Average diameter (mm)": 101.5,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD140PN16(PE100)",
+    "Average diameter (mm)": 113.85,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD160PN16(PE100)",
+    "Average diameter (mm)": 129.95,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD180PN16(PE100)",
+    "Average diameter (mm)": 146.25,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD200PN16(PE100)",
+    "Average diameter (mm)": 162.5,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD225PN16(PE100)",
+    "Average diameter (mm)": 182.85,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD250PN16(PE100)",
+    "Average diameter (mm)": 203.35,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD280PN16(PE100)",
+    "Average diameter (mm)": 227.8,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD315PN16(PE100)",
+    "Average diameter (mm)": 256.25,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD355PN16(PE100)",
+    "Average diameter (mm)": 288.8,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD400PN16(PE100)",
+    "Average diameter (mm)": 325.4,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD450PN16(PE100)",
+    "Average diameter (mm)": 366.05,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD500PN16(PE100)",
+    "Average diameter (mm)": 406.75,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD560PN16(PE100)",
+    "Average diameter (mm)": 455.75,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD630PN16(PE100)",
+    "Average diameter (mm)": 512.55,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD20PN20",
+    "Average diameter (mm)": 14.15,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD25PN20",
+    "Average diameter (mm)": 17.65,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD32PN20",
+    "Average diameter (mm)": 22.75,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD40PN20",
+    "Average diameter (mm)": 28.5,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD50PN20",
+    "Average diameter (mm)": 35.65,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD63PN20",
+    "Average diameter (mm)": 45.1,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD75PN20",
+    "Average diameter (mm)": 53.55,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD90PN20",
+    "Average diameter (mm)": 64.45,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD110PN20",
+    "Average diameter (mm)": 78.6,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD125PN20",
+    "Average diameter (mm)": 89.5,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD140PN20",
+    "Average diameter (mm)": 100.15,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD160PN20",
+    "Average diameter (mm)": 114.65,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD180PN20",
+    "Average diameter (mm)": 129.05,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD200PN20",
+    "Average diameter (mm)": 143.4,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD225PN20",
+    "Average diameter (mm)": 161.25,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD250PN20",
+    "Average diameter (mm)": 179.15,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD280PN20",
+    "Average diameter (mm)": 200.7,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD315PN20",
+    "Average diameter (mm)": 226.05,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD355PN20",
+    "Average diameter (mm)": 254.6,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD400PN20",
+    "Average diameter (mm)": 287,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD450PN20",
+    "Average diameter (mm)": 322.75,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD20PN20(PE100)",
+    "Average diameter (mm)": 15.15,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD25PN20(PE100)",
+    "Average diameter (mm)": 19.15,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD32PN20(PE100)",
+    "Average diameter (mm)": 24.45,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD40PN20(PE100)",
+    "Average diameter (mm)": 30.6,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD50PN20(PE100)",
+    "Average diameter (mm)": 38.35,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD63PN20(PE100)",
+    "Average diameter (mm)": 48.2,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD75PN20(PE100)",
+    "Average diameter (mm)": 57.55,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD90PN20(PE100)",
+    "Average diameter (mm)": 69.05,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD110PN20(PE100)",
+    "Average diameter (mm)": 84.5,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD125PN20(PE100)",
+    "Average diameter (mm)": 96.1,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD140PN20(PE100)",
+    "Average diameter (mm)": 107.55,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD160PN20(PE100)",
+    "Average diameter (mm)": 123.05,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD180PN20(PE100)",
+    "Average diameter (mm)": 138.45,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD200PN20(PE100)",
+    "Average diameter (mm)": 153.7,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD225PN20(PE100)",
+    "Average diameter (mm)": 173.15,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD250PN20(PE100)",
+    "Average diameter (mm)": 192.45,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD280PN20(PE100)",
+    "Average diameter (mm)": 215.4,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD315PN20(PE100)",
+    "Average diameter (mm)": 242.35,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD355PN20(PE100)",
+    "Average diameter (mm)": 273.3,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD400PN20(PE100)",
+    "Average diameter (mm)": 307.8,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD450PN20(PE100)",
+    "Average diameter (mm)": 346.45,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD20PN25(PE100)",
+    "Average diameter (mm)": 14.15,
+    "Pressure rating (bar)": 25,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD25PN25(PE100)",
+    "Average diameter (mm)": 17.65,
+    "Pressure rating (bar)": 25,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD32PN25(PE100)",
+    "Average diameter (mm)": 22.75,
+    "Pressure rating (bar)": 25,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD40PN25(PE100)",
+    "Average diameter (mm)": 28.5,
+    "Pressure rating (bar)": 25,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD50PN25(PE100)",
+    "Average diameter (mm)": 35.65,
+    "Pressure rating (bar)": 25,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD63PN25(PE100)",
+    "Average diameter (mm)": 45.1,
+    "Pressure rating (bar)": 25,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD75PN25(PE100)",
+    "Average diameter (mm)": 53.55,
+    "Pressure rating (bar)": 25,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD90PN25(PE100)",
+    "Average diameter (mm)": 64.45,
+    "Pressure rating (bar)": 25,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD110PN25(PE100)",
+    "Average diameter (mm)": 78.6,
+    "Pressure rating (bar)": 25,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD125PN25(PE100)",
+    "Average diameter (mm)": 89.5,
+    "Pressure rating (bar)": 25,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD140PN25(PE100)",
+    "Average diameter (mm)": 100.15,
+    "Pressure rating (bar)": 25,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD160PN25(PE100)",
+    "Average diameter (mm)": 114.65,
+    "Pressure rating (bar)": 25,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD180PN25(PE100)",
+    "Average diameter (mm)": 129.05,
+    "Pressure rating (bar)": 25,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD200PN25(PE100)",
+    "Average diameter (mm)": 143.4,
+    "Pressure rating (bar)": 25,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD225PN25(PE100)",
+    "Average diameter (mm)": 161.25,
+    "Pressure rating (bar)": 25,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD250PN25(PE100)",
+    "Average diameter (mm)": 179.15,
+    "Pressure rating (bar)": 25,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD280PN25(PE100)",
+    "Average diameter (mm)": 200.7,
+    "Pressure rating (bar)": 25,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD315PN25(PE100)",
+    "Average diameter (mm)": 226.05,
+    "Pressure rating (bar)": 25,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD355PN25(PE100)",
+    "Average diameter (mm)": 254.6,
+    "Pressure rating (bar)": 25,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD400PN25(PE100)",
+    "Average diameter (mm)": 287,
+    "Pressure rating (bar)": 25,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MD450PN25(PE100)",
+    "Average diameter (mm)": 322.75,
+    "Pressure rating (bar)": 25,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MT0.70",
+    "Average diameter (mm)": 0.7,
+    "Pressure rating (bar)": 1,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MT0.89",
+    "Average diameter (mm)": 0.89,
+    "Pressure rating (bar)": 1,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "MT1.27",
+    "Average diameter (mm)": 1.27,
+    "Pressure rating (bar)": 1,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "RXLRT 3.8ID",
+    "Average diameter (mm)": 3.8,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "HYD6OD",
+    "Average diameter (mm)": 4,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "HYD8OD",
+    "Average diameter (mm)": 6,
+    "Pressure rating (bar)": 10,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "POTD3MM",
+    "Average diameter (mm)": 3,
+    "Pressure rating (bar)": 6,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVC4/7",
+    "Average diameter (mm)": 4,
+    "Pressure rating (bar)": 6,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVC7/10",
+    "Average diameter (mm)": 7,
+    "Pressure rating (bar)": 6,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU40PN6",
+    "Average diameter (mm)": 45.15,
+    "Pressure rating (bar)": 6,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU50PN6",
+    "Average diameter (mm)": 56.75,
+    "Pressure rating (bar)": 6,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU65PN6",
+    "Average diameter (mm)": 70.95,
+    "Pressure rating (bar)": 6,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU80PN6",
+    "Average diameter (mm)": 83.7,
+    "Pressure rating (bar)": 6,
+    "Feed": false,
+    "Main": true
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU100PN6",
+    "Average diameter (mm)": 107.8,
+    "Pressure rating (bar)": 6,
+    "Feed": false,
+    "Main": true
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU125PN6",
+    "Average diameter (mm)": 132.2,
+    "Pressure rating (bar)": 6,
+    "Feed": false,
+    "Main": true
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU150PN6",
+    "Average diameter (mm)": 151.25,
+    "Pressure rating (bar)": 6,
+    "Feed": false,
+    "Main": true
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU175PN6",
+    "Average diameter (mm)": 190.05,
+    "Pressure rating (bar)": 6,
+    "Feed": false,
+    "Main": true
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU200PN6",
+    "Average diameter (mm)": 213.8,
+    "Pressure rating (bar)": 6,
+    "Feed": false,
+    "Main": true
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU225PN6",
+    "Average diameter (mm)": 237.65,
+    "Pressure rating (bar)": 6,
+    "Feed": false,
+    "Main": true
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU225PN6-S2",
+    "Average diameter (mm)": 246.05,
+    "Pressure rating (bar)": 6,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU250PN6",
+    "Average diameter (mm)": 266.2,
+    "Pressure rating (bar)": 6,
+    "Feed": false,
+    "Main": true
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU250PN6-S2",
+    "Average diameter (mm)": 271.7,
+    "Pressure rating (bar)": 6,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU300PN6",
+    "Average diameter (mm)": 299.45,
+    "Pressure rating (bar)": 6,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU300PN6-S2",
+    "Average diameter (mm)": 327.95,
+    "Pressure rating (bar)": 6,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU350PN6",
+    "Average diameter (mm)": 337.5,
+    "Pressure rating (bar)": 6,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU375PN6",
+    "Average diameter (mm)": 380.3,
+    "Pressure rating (bar)": 6,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU375PN6-S2",
+    "Average diameter (mm)": 404.6,
+    "Pressure rating (bar)": 6,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU400PN6",
+    "Average diameter (mm)": 427.8,
+    "Pressure rating (bar)": 6,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU450PN6",
+    "Average diameter (mm)": 469.6,
+    "Pressure rating (bar)": 6,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU450PN6-S2",
+    "Average diameter (mm)": 481.4,
+    "Pressure rating (bar)": 6,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU40PN9",
+    "Average diameter (mm)": 44.05,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU50PN9",
+    "Average diameter (mm)": 55.15,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU65PN9",
+    "Average diameter (mm)": 68.85,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU80PN9",
+    "Average diameter (mm)": 81.3,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": true
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU100PN9",
+    "Average diameter (mm)": 104.6,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU125PN9",
+    "Average diameter (mm)": 128.4,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU150PN9",
+    "Average diameter (mm)": 146.85,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": true
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU175PN9",
+    "Average diameter (mm)": 185.15,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU200PN9",
+    "Average diameter (mm)": 208.5,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU225PN9",
+    "Average diameter (mm)": 231.65,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU225PN9-S2",
+    "Average diameter (mm)": 239.75,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU250PN9",
+    "Average diameter (mm)": 259.4,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU250PN9-S2",
+    "Average diameter (mm)": 264.8,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU25PN9",
+    "Average diameter (mm)": 30.45,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU300PN9",
+    "Average diameter (mm)": 291.95,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU300PN9-S2",
+    "Average diameter (mm)": 319.55,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU32PN9",
+    "Average diameter (mm)": 38.45,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU350PN9",
+    "Average diameter (mm)": 329,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU375PN9",
+    "Average diameter (mm)": 370.7,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU375PN9-S2",
+    "Average diameter (mm)": 394.3,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU400PN9",
+    "Average diameter (mm)": 416.9,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU450PN9",
+    "Average diameter (mm)": 463.3,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU450PN9-S2",
+    "Average diameter (mm)": 469.2,
+    "Pressure rating (bar)": 9,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU25PN12",
+    "Average diameter (mm)": 29.75,
+    "Pressure rating (bar)": 12,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU32PN12",
+    "Average diameter (mm)": 37.45,
+    "Pressure rating (bar)": 12,
+    "Feed": false,
+    "Main": true
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU40PN12",
+    "Average diameter (mm)": 42.75,
+    "Pressure rating (bar)": 12,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU50PN12",
+    "Average diameter (mm)": 53.65,
+    "Pressure rating (bar)": 12,
+    "Feed": false,
+    "Main": true
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU65PN12",
+    "Average diameter (mm)": 66.95,
+    "Pressure rating (bar)": 12,
+    "Feed": false,
+    "Main": true
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU80PN12",
+    "Average diameter (mm)": 79,
+    "Pressure rating (bar)": 12,
+    "Feed": false,
+    "Main": true
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU100PN12",
+    "Average diameter (mm)": 101.7,
+    "Pressure rating (bar)": 12,
+    "Feed": false,
+    "Main": true
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU100PN12-S2",
+    "Average diameter (mm)": 108.5,
+    "Pressure rating (bar)": 12,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU125PN12",
+    "Average diameter (mm)": 124.9,
+    "Pressure rating (bar)": 12,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU150PN12",
+    "Average diameter (mm)": 142.65,
+    "Pressure rating (bar)": 12,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU150PN12-S2",
+    "Average diameter (mm)": 157.85,
+    "Pressure rating (bar)": 12,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU175PN12",
+    "Average diameter (mm)": 180.55,
+    "Pressure rating (bar)": 12,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU200PN12",
+    "Average diameter (mm)": 203.1,
+    "Pressure rating (bar)": 12,
+    "Feed": false,
+    "Main": true
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU200PN12-S2",
+    "Average diameter (mm)": 209.35,
+    "Pressure rating (bar)": 12,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU20PN12",
+    "Average diameter (mm)": 23.65,
+    "Pressure rating (bar)": 12,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU225PN12",
+    "Average diameter (mm)": 225.75,
+    "Pressure rating (bar)": 12,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU225PN12-S2",
+    "Average diameter (mm)": 233.65,
+    "Pressure rating (bar)": 12,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU250PN12",
+    "Average diameter (mm)": 252.9,
+    "Pressure rating (bar)": 12,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU250PN12-S2",
+    "Average diameter (mm)": 258.1,
+    "Pressure rating (bar)": 12,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU300PN12",
+    "Average diameter (mm)": 284.45,
+    "Pressure rating (bar)": 12,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU300PN12-S2",
+    "Average diameter (mm)": 311.35,
+    "Pressure rating (bar)": 12,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU350PN12",
+    "Average diameter (mm)": 320.6,
+    "Pressure rating (bar)": 12,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU375PN12",
+    "Average diameter (mm)": 361.2,
+    "Pressure rating (bar)": 12,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU375PN12-S2",
+    "Average diameter (mm)": 384.4,
+    "Pressure rating (bar)": 12,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU400PN12",
+    "Average diameter (mm)": 406.4,
+    "Pressure rating (bar)": 12,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU450PN12",
+    "Average diameter (mm)": 451.4,
+    "Pressure rating (bar)": 12,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU450PN12-S2",
+    "Average diameter (mm)": 457.2,
+    "Pressure rating (bar)": 12,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU15PN15",
+    "Average diameter (mm)": 18.25,
+    "Pressure rating (bar)": 15,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU20PN15",
+    "Average diameter (mm)": 22.95,
+    "Pressure rating (bar)": 15,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU25PN15",
+    "Average diameter (mm)": 28.95,
+    "Pressure rating (bar)": 15,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU32PN15",
+    "Average diameter (mm)": 36.35,
+    "Pressure rating (bar)": 15,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU40PN15",
+    "Average diameter (mm)": 41.55,
+    "Pressure rating (bar)": 15,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU50PN15",
+    "Average diameter (mm)": 52.15,
+    "Pressure rating (bar)": 15,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU65PN15",
+    "Average diameter (mm)": 65.05,
+    "Pressure rating (bar)": 15,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU80PN15",
+    "Average diameter (mm)": 76.7,
+    "Pressure rating (bar)": 15,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU100PN15",
+    "Average diameter (mm)": 98.8,
+    "Pressure rating (bar)": 15,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU125PN15",
+    "Average diameter (mm)": 121.3,
+    "Pressure rating (bar)": 15,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU150PN15",
+    "Average diameter (mm)": 138.65,
+    "Pressure rating (bar)": 15,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU175PN15",
+    "Average diameter (mm)": 175.95,
+    "Pressure rating (bar)": 15,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU200PN15",
+    "Average diameter (mm)": 198,
+    "Pressure rating (bar)": 15,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU225PN15",
+    "Average diameter (mm)": 219.95,
+    "Pressure rating (bar)": 15,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU250PN15",
+    "Average diameter (mm)": 246.4,
+    "Pressure rating (bar)": 15,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU300PN15",
+    "Average diameter (mm)": 277.25,
+    "Pressure rating (bar)": 15,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU350PN15",
+    "Average diameter (mm)": 312.5,
+    "Pressure rating (bar)": 15,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU375PN15",
+    "Average diameter (mm)": 352,
+    "Pressure rating (bar)": 15,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU400PN15",
+    "Average diameter (mm)": 396,
+    "Pressure rating (bar)": 15,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU450PN15",
+    "Average diameter (mm)": 440,
+    "Pressure rating (bar)": 15,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU100PN16-S2",
+    "Average diameter (mm)": 104.3,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU150PN16-S2",
+    "Average diameter (mm)": 151.95,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU200PN16-S2",
+    "Average diameter (mm)": 202.25,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU225PN16-S2",
+    "Average diameter (mm)": 225.65,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU250PN16-S2",
+    "Average diameter (mm)": 249.2,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU300PN16-S2",
+    "Average diameter (mm)": 300.85,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU375PN16-S2",
+    "Average diameter (mm)": 371.2,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU450PN16-S2",
+    "Average diameter (mm)": 441.7,
+    "Pressure rating (bar)": 16,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU15PN18",
+    "Average diameter (mm)": 17.75,
+    "Pressure rating (bar)": 18,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU20PN18",
+    "Average diameter (mm)": 22.35,
+    "Pressure rating (bar)": 18,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU25PN18",
+    "Average diameter (mm)": 28.05,
+    "Pressure rating (bar)": 18,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU32PN18",
+    "Average diameter (mm)": 35.35,
+    "Pressure rating (bar)": 18,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU40PN18",
+    "Average diameter (mm)": 40.45,
+    "Pressure rating (bar)": 18,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU50PN18",
+    "Average diameter (mm)": 50.45,
+    "Pressure rating (bar)": 18,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU65PN18",
+    "Average diameter (mm)": 63.15,
+    "Pressure rating (bar)": 18,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU80PN18",
+    "Average diameter (mm)": 74.6,
+    "Pressure rating (bar)": 18,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU100PN18",
+    "Average diameter (mm)": 96,
+    "Pressure rating (bar)": 18,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU100PN18-S2",
+    "Average diameter (mm)": 102.4,
+    "Pressure rating (bar)": 18,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU125PN18",
+    "Average diameter (mm)": 117.7,
+    "Pressure rating (bar)": 18,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU150PN18",
+    "Average diameter (mm)": 134.65,
+    "Pressure rating (bar)": 18,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU150PN18-S2",
+    "Average diameter (mm)": 149.05,
+    "Pressure rating (bar)": 18,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU175PN18",
+    "Average diameter (mm)": 171.45,
+    "Pressure rating (bar)": 18,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU200PN18",
+    "Average diameter (mm)": 192.9,
+    "Pressure rating (bar)": 18,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU200PN18-S2",
+    "Average diameter (mm)": 198.65,
+    "Pressure rating (bar)": 18,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU225PN18",
+    "Average diameter (mm)": 214.35,
+    "Pressure rating (bar)": 18,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU225PN18-S2",
+    "Average diameter (mm)": 221.85,
+    "Pressure rating (bar)": 18,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU250PN18",
+    "Average diameter (mm)": 240.2,
+    "Pressure rating (bar)": 18,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU250PN18-S2",
+    "Average diameter (mm)": 245,
+    "Pressure rating (bar)": 18,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU300PN18",
+    "Average diameter (mm)": 270.15,
+    "Pressure rating (bar)": 18,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU350PN18",
+    "Average diameter (mm)": 304.5,
+    "Pressure rating (bar)": 18,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU375PN18",
+    "Average diameter (mm)": 343,
+    "Pressure rating (bar)": 18,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU400PN18",
+    "Average diameter (mm)": 385.8,
+    "Pressure rating (bar)": 18,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU450PN18",
+    "Average diameter (mm)": 428.7,
+    "Pressure rating (bar)": 18,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU100PN20-S2",
+    "Average diameter (mm)": 100.3,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU150PN20-S2",
+    "Average diameter (mm)": 146.05,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU200PN20-S2",
+    "Average diameter (mm)": 195.25,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU225PN20-S2",
+    "Average diameter (mm)": 218.05,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  },
+  {
+    "K-Line Irrigation pipe code": "PVCU250PN20-S2",
+    "Average diameter (mm)": 240.8,
+    "Pressure rating (bar)": 20,
+    "Feed": false,
+    "Main": false
+  }
 ]
